@@ -1,0 +1,22 @@
+{
+  "workspaces": [
+    {
+      "id": "C1234567890",
+      "name": "general",
+      "is_private": false,
+      "topic": "This is the general channel for the My Slack Workspace workspace."
+    },
+    {
+      "id": "C9876543210",
+      "name": "random",
+      "is_private": false,
+      "topic": "This is a channel for random chit-chat."
+    },
+    {
+      "id": "D1234567890",
+      "name": "private-channel",
+      "is_private": true,
+      "topic": "This is a private channel for a select group of users."
+    }
+  ]
+}
